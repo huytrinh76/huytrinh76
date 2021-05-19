@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 GRINDING
 <br>
-- Healthy Lifestyle -
+- Healthy Lifestyle
 <br>
 Street Workout n Calisthenics
