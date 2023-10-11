@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-GRINDING
+TRUST THE PROCESS 🐺
 <br>
-- Healthy Lifestyle
+- Healthy Lifestyle -
 <br>
-Street Workout n Calisthenics
+Calisthenics
+
+- 🔭 I’m currently working on Game Developer
+- 🌱 I’m currently learning Unreal Engine
+- 📫 How to reach me: [face](https://www.facebook.com/huytrinh76/)https://www.facebook.com/huytrinh76/
+- ⚡ Hobbies: Content Creation, Calisthenics
