@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 TRUST THE PROCESS 🐺
 
-- 🔭 I’m currently working on Game Developer
-- 🌱 I’m currently learning Unreal Engine
+- 🔭 Currently working on game development 🎮
+- 🌱 I’m currently learning new techniques on Unity
 - 📫 How to reach me: [Huy Trịnh](https://www.facebook.com/huytrinh76/)
 - ⚡ Hobbies: Content Creation, Calisthenics
