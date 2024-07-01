@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy, feller 🐺
 
 <!--
 **huytrinh76/huytrinh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 TRUST THE PROCESS 🐺
 
-- 🔭 Currently working on game development 🎮
-- 🌱 I’m currently learning new techniques on Unity
-- 📫 How to reach me: [Huy Trịnh](https://www.facebook.com/huytrinh76/)
+- 🔭 I’m currently working on game development 🎮
+- 🌱 I’m currently learning new techniques
+- 📫 How to reach me: [Huy Trịnh](https://www.facebook.com/huytrinh76)
 - ⚡ Hobbies: Content Creation, Calisthenics
